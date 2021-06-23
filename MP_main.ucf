@@ -1,0 +1,54 @@
+
+
+NET "seg1[6]" LOC = P3;
+NET "seg1[5]" LOC = P4;
+NET "seg1[4]" LOC = P5;
+NET "seg1[3]" LOC = P6;
+NET "seg1[2]" LOC = P7;
+NET "seg1[1]" LOC = P8;
+NET "seg1[0]" LOC = P10;
+NET "seg2[6]" LOC = P11;
+NET "seg2[5]" LOC = P12;
+NET "seg2[4]" LOC = P13;
+NET "seg2[3]" LOC = P15;
+NET "seg2[2]" LOC = P16;
+NET "seg2[1]" LOC = P18;
+NET "seg2[0]" LOC = P19;
+NET "Oscillator" LOC = P57;
+NET "Reset" LOC = P47;
+
+
+NET "seg3[6]" LOC = P68;
+NET "seg3[5]" LOC = P69;
+NET "seg3[4]" LOC = P70;
+NET "seg3[3]" LOC = P71;
+NET "seg3[2]" LOC = P72;
+NET "seg3[1]" LOC = P75;
+NET "seg3[0]" LOC = P76;
+NET "seg4[6]" LOC = P77;
+NET "seg4[5]" LOC = P78;
+NET "seg4[4]" LOC = P79;
+NET "seg4[3]" LOC = P82;
+NET "seg4[2]" LOC = P83;
+NET "seg4[1]" LOC = P84;
+NET "seg4[0]" LOC = P85;
+NET "ShowData[1]" LOC = P30;
+NET "ShowData[0]" LOC = P31;
+
+
+NET "instruction[7]" LOC = P130;
+NET "instruction[6]" LOC = P129;
+NET "instruction[5]" LOC = P127;
+NET "instruction[4]" LOC = P126;
+NET "instruction[3]" LOC = P125;
+NET "instruction[2]" LOC = P124;
+NET "instruction[1]" LOC = P121;
+NET "instruction[0]" LOC = P120;
+NET "PC[7]" LOC = P105;
+NET "PC[6]" LOC = P104;
+NET "PC[5]" LOC = P103;
+NET "PC[4]" LOC = P102;
+NET "PC[3]" LOC = P101;
+NET "PC[2]" LOC = P99;
+NET "PC[1]" LOC = P98;
+NET "PC[0]" LOC = P96;
